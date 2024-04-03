@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyashilmagre&label=Profile%20views&color=0e75b6&style=flat" alt="satyashilmagre" /> </p>
 
-- 🌱 I’m currently learning **Express.js , Nodejs MangoDB**
+- 🌱 I’m currently learning **Express.js, Flutter, Nodejs MangoDB**
 
 - 👨‍💻 All of my projects are available at [https://satyashil.netlify.app/](https://satyashil.netlify.app/)
 
